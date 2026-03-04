@@ -28,6 +28,8 @@
         "chat.slashCommandForeground": "#85b6ff",
         "checkbox.background": "#FFFFFF40", // changed 04/03/2026
         "checkbox.border": "#FFFFFF90", // changed 04/03/2026
+        "commandCenter.activeBackground": "#FFFFFF20", // changed 04/03/2026
+        "commandCenter.activeForeground": "#FFFFFF", // changed 04/03/2026
         "debugToolBar.background": "#181818",
         "descriptionForeground": "#9d9d9d",
         "dropdown.background": "#313131",
@@ -50,6 +52,7 @@
         "editorIndentGuide.activeBackground1": "#707070",
         "editorIndentGuide.background1": "#404040",
         "editorLightBulb.foreground": "#d7ff64", // changed 04/03/2026
+        "editorLightBulbAutoFix.foreground": "#46EBE1", // changed 04/03/2026
         "editorLineNumber.activeForeground": "#cccccc",
         "editorLineNumber.foreground": "#6e7681",
         "editorOverviewRuler.border": "#010409",
@@ -65,12 +68,15 @@
         "inputOption.activeBackground": "#2489db",
         "inputOption.activeBorder": "#2488db",
         "keybindingLabel.foreground": "#cccccc",
-        "list.activeSelectionBackground": "#cd67e1",
+        "list.activeSelectionBackground": "#F1AFF6", // changed 04/03/2026
         "list.activeSelectionForeground": "#261230", // changed 03/03/2026
         "list.activeSelectionIconForeground": "#ffffff",
-        "list.dropBackground": "#383b3d",
+        "list.dropBackground": "#00BFA5", // changed 04/03/2026
+        "list.errorForeground": "#f33232", // changed 04/03/2026
         "list.hoverBackground": "#150C1C", // changed 03/03/2026
-        "list.inactiveSelectionBackground": "#150C1C", // changed 03/03/2026
+        "list.hoverForeground": "#d7ff64", // changed 04/03/2026
+        "list.inactiveSelectionBackground": "#F1AFF6", // changed 04/03/2026
+        "list.inactiveSelectionForeground": "#0B060F", // changed 04/03/2026
         "menu.background": "#261230", // changed 03/03/2026
         "menu.border": "#88888810", // changed 03/03/2026
         "menu.foreground": "#cccccc",
@@ -102,24 +108,26 @@
         "settings.headerForeground": "#ffffff",
         "settings.modifiedItemIndicator": "#bb800966",
         "sideBar.background": "#261230", // changed 03/03/2026
-        "sideBar.border": "#88888810", // changed 03/03/2026
+        "sideBar.border": "#0B060F50", // changed 04/03/2026
         "sideBar.foreground": "#f0dfdf",
+        "sideBarActivityBarTop.border": "#0B060F50", // changed 04/03/2026
         "sideBarSectionHeader.background": "#261230", // changed 03/03/2026
-        "sideBarSectionHeader.border": "#88888810", // changed 03/03/2026
-        "sideBarSectionHeader.foreground": "#f0dfdf",
+        "sideBarSectionHeader.border": "#0B060F50", // changed 04/03/2026
+        "sideBarSectionHeader.foreground": "#f0dfdf", // changed 04/03/2026
         "sideBarTitle.background": "#261230", // changed 03/03/2026
-        "sideBarTitle.foreground": "#f0dfdf",
+        "sideBarTitle.border": "#0B060F50", // changed 04/03/2026
+        "sideBarTitle.foreground": "#f0dfdf", // changed 04/03/2026
         "statusBar.background": "#261230", // changed 03/03/2026
-        "statusBar.border": "#88888810", // changed 03/03/2026
-        "statusBar.debuggingBackground": "#cd67e1",
-        "statusBar.debuggingForeground": "#ffffff",
-        "statusBar.focusBorder": "#88888810", // changed 03/03/2026
-        "statusBar.foreground": "#cccccc",
-        "statusBar.noFolderBackground": "#261230", // changed 03/03/2026
-        "statusBarItem.focusBorder": "#88888810", // changed 03/03/2026
-        "statusBarItem.hoverBackground": "#FFFFFF10",
-        "statusBarItem.hoverForeground": "#ffffff",
-        "statusBarItem.prominentBackground": "#6e768166",
+        "statusBar.border": "#0B060F50", // changed 04/03/2026
+        "statusBar.debuggingBackground": "#cd67e1", // changed 04/03/2026
+        "statusBar.debuggingForeground": "#ffffff", // changed 04/03/2026
+        "statusBar.focusBorder": "#0B060F50", // changed 04/03/2026
+        "statusBar.foreground": "#F0DFDF", // changed 04/04/2026
+        "statusBar.noFolderBackground": "#170B1E", // changed 04/03/2026
+        "statusBarItem.focusBorder": "#d7ff64", // changed 04/03/2026
+        "statusBarItem.hoverBackground": "#FFFFFF20", // changed 04/03/2026
+        "statusBarItem.hoverForeground": "#ffffff", // changed 04/03/2026
+        "statusBarItem.prominentBackground": "#FFFFFF20", // changed 04/03/2026
         "statusBarItem.remoteBackground": "#d7ff64", // changed 03/03/2026
         "statusBarItem.remoteForeground": "#261230", // changed 03/03/2026
         "tab.activeBackground": "#261230", // changed 03/03/2026
@@ -149,10 +157,10 @@
         "textPreformat.foreground": "#d0d0d0",
         "textSeparator.foreground": "#21262d",
         "titleBar.activeBackground": "#261230", // changed 03/03/2026
-        "titleBar.activeForeground": "#cccccc",
-        "titleBar.border": "#88888810",
+        "titleBar.activeForeground": "#F0DFDF", // changed 04/03/2026
+        "titleBar.border": "#0B060F50", // changed 04/03/2026
         "titleBar.inactiveBackground": "#261230", // changed 03/03/2026
-        "titleBar.inactiveForeground": "#9d9d9d",
+        "titleBar.inactiveForeground": "#F0DFDF70", // changed 04/03/2026
         "toolbar.activeBackground": "#DE5FE9", // changed 04/03/2026
         "toolbar.hoverBackground": "#FFFFFF20", // changed 04/03/2026
         "welcomePage.progress.foreground": "#0078d4",
