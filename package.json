@@ -1,0 +1,59 @@
+{
+	"name": "mg-astronomic-theme",
+	"displayName": "Astronomic Theme",
+	"description": "Astronomic Theme for VS Code, Codium and others.",
+	"version": "1.0.0",
+	"author": "Matt S",
+	"publisher": "Matt S",
+	"license": "MIT",
+	"icon": "/assets/images/icon.png",
+	"galleryBanner": {
+		"color": "#252B37",
+		"theme": "dark"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mystery-git/astronomic_theme_vsc"
+	},
+	"bugs": {
+		"url": "https://github.com/mystery-git/astronomic_theme_vsc/issues"
+	},
+	"engines": {
+		"vscode": "^1.95.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"theme",
+		"color-theme",
+		"editor-theme",
+		"syntax-theme",
+		"ui-theme",
+		"vscode",
+		"vscode-theme",
+		"vscode-color-theme",
+		"dark-theme",
+		"light-theme",
+		"purple",
+		"productivity",
+		"math-ls",
+		"astral",
+		"ruff-theme",
+		"uv-theme",
+		"astral-theme",
+		"vscodium",
+		"openvsx",
+		"cursor",
+		"windsurf"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Astronomic Dark",
+				"uiTheme": "vs-dark",
+				"path": "themes/astronomic-default-dark-theme.json"
+			}
+		]
+	}
+}
