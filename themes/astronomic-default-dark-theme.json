@@ -32,51 +32,66 @@
         "commandCenter.activeForeground": "#FFFFFF", // changed 04/03/2026
         "debugToolBar.background": "#181818",
         "descriptionForeground": "#9d9d9d",
-        "dropdown.background": "#170b1d", // changed 04/03/2026
-        "dropdown.border": "#0B060F50", // changed 04/03/2026
+        "dropdown.background": "#261230", // changed 05/03/2026
+        "dropdown.border": "#F0DFDF20", // changed 04/03/2026
         "dropdown.foreground": "#F0DFDF", // changed 04/03/2026
-        "dropdown.listBackground": "#170b1d", // changed 04/03/2026
-        "editor.background": "#30173d", // changed 03/03/2026
-        "editor.findMatchBackground": "#9e6a03",
-        "editor.foreground": "#FFFFFF",
-        "editor.inactiveSelectionBackground": "#3a3d4180",
-        "editor.lineHighlightBackground": "#301e3d",
-        "editor.selectionHighlightBackground": "#add6ff26",
-        "editorGroup.border": "#ffffff17",
+        "dropdown.listBackground": "#261230", // changed 05/03/2026
+        "editor.background": "#30173D", // changed 05/03/2026
+        "editor.findMatchBackground": "#DE5FE9aa", // changed 05/03/2026
+        "editor.foldBackground": "#2612305f", // changed 05/03/2026
+        "editor.foreground": "#F5F5F5", // changed 05/03/2026
+        "editor.hoverHighlightBackground": "#683285", // changed 05/03/2026
+        "editor.inactiveLineHighlightBackground": "#F1AFF609", // changed 05/03/2026
+        "editor.inactiveSelectionBackground": "#a4a4a470", // changed 05/03/2026
+        "editor.lineHighlightBackground": "#F1AFF618", // changed 05/03/2026
+        "editor.selectionHighlightBackground": "#00BFA5a8", // changed 05/03/2026
+        "editor.wordHighlightBackground": "#683285", // changed 05/03/2026
+        "editorBracketMatch.background": "#683285", // changed 05/03/2026
+        "editorBracketMatch.border": "#000FFF00", // changed 05/03/2026
+        "editorCursor.foreground": "#d7ff64", // changed 05/03/2026
+        "editorGroup.border": "#0B060F50", // changed 05/03/2026
         "editorGroupHeader.tabsBackground": "#261230", // changed 03/03/2026
-        "editorGroupHeader.tabsBorder": "#FFFFFF40",
+        "editorGroupHeader.tabsBorder": "#FFFFFF60", // changed 05/03/2026
         "editorGutter.addedBackground": "#2ea043",
+        "editorGutter.background": "#2612302f", // changed 05/03/2026
         "editorGutter.deletedBackground": "#f85149",
+        "editorGutter.foldingControlForeground": "#683285", // changed 05/03/2026
         "editorGutter.modifiedBackground": "#0078d4",
-        "editorHoverWidget.background": "#261230", // changed 03/03/2026
-        "editorIndentGuide.activeBackground1": "#707070",
-        "editorIndentGuide.background1": "#404040",
+        "editorHoverWidget.background": "#261230", // changed 05/03/2026
+        "editorHoverWidget.border": "#0B060F50", // changed 05/03/2026
+        "editorHoverWidget.foreground": "#F0DFDF", // changed 05/03/2026
+        "editorIndentGuide.activeBackground1": "#683285", // changed 05/03/2026
+        "editorIndentGuide.background1": "#452259", // changed 05/03/2026
         "editorLightBulb.foreground": "#d7ff64", // changed 04/03/2026
         "editorLightBulbAutoFix.foreground": "#46EBE1", // changed 04/03/2026
-        "editorLineNumber.activeForeground": "#cccccc",
-        "editorLineNumber.foreground": "#6e7681",
-        "editorOverviewRuler.border": "#010409",
-        "editorWidget.background": "#202020",
+        "editorLineNumber.activeForeground": "#ffffff", // changed 05/03/2026
+        "editorLineNumber.foreground": "#683285", // changed 05/03/2026
+        "editorOverviewRuler.border": "#00000000", // changed 05/03/2026
+        "editorStickyScroll.border": "#0B060F50", // changed 05/03/2026
+        "editorStickyScroll.shadow": "#0B060F50", // changed 05/03/2026
+        "editorStickyScrollHover.background": "#452259", // changed 05/03/2026
+        "editorWidget.background": "#261230", // changed 05/03/2026
+        "editorWidget.border": "#d7ff64", // changed 05/03/2026
         "errorForeground": "#f85149",
         "focusBorder": "#d7ff64", // changed 03/03/2026
         "foreground": "#F0DFDF", // changed 04/03/2026
         "icon.foreground": "#F0DFDF", // changed 04/03/2026
-        "input.background": "#170b1d", // changed 03/03/2026
-        "input.border": "#0B060F50", // changed 04/03/2026
+        "input.background": "#261230", // changed 05/03/2026
+        "input.border": "#F0DFDF20", // changed 05/03/2026
         "input.foreground": "#F0DFDF", // changed 04/03/2026
         "input.placeholderForeground": "#F0DFDF70", // changed 04/03/2026
         "inputOption.activeBackground": "#2489db",
         "inputOption.activeBorder": "#2488db",
         "keybindingLabel.foreground": "#cccccc",
-        "list.activeSelectionBackground": "#F1AFF6", // changed 04/03/2026
-        "list.activeSelectionForeground": "#261230", // changed 03/03/2026
+        "list.activeSelectionBackground": "#30173D", // changed 05/03/2026
+        "list.activeSelectionForeground": "#d7ff64", // changed 05/03/2026
         "list.activeSelectionIconForeground": "#ffffff",
         "list.dropBackground": "#00BFA5", // changed 04/03/2026
         "list.errorForeground": "#f33232", // changed 04/03/2026
-        "list.hoverBackground": "#150C1C", // changed 03/03/2026
+        "list.hoverBackground": "#30173D", // changed 05/03/2026
         "list.hoverForeground": "#d7ff64", // changed 04/03/2026
-        "list.inactiveSelectionBackground": "#F1AFF6", // changed 04/03/2026
-        "list.inactiveSelectionForeground": "#0B060F", // changed 04/03/2026
+        "list.inactiveSelectionBackground": "#30173D", // changed 05/03/2026
+        "list.inactiveSelectionForeground": "#FFFFFF", // changed 05/03/2026
         "menu.background": "#261230", // changed 03/03/2026
         "menu.border": "#88888810", // changed 03/03/2026
         "menu.foreground": "#cccccc",
@@ -90,20 +105,26 @@
         "notifications.foreground": "#cccccc",
         "panel.background": "#261230", // changed 04/03/2026
         "panel.border": "#0B060F50", // changed 04/03/2026
-        "panelInput.border": "#88888810", // changed 03/03/2026
+        "panelInput.border": "#F0DFDF20", // changed 05/03/2026
         "panelTitle.activeBorder": "#D7FF64", // changed 03/03/2026
         "panelTitle.activeForeground": "#D7FF64", // changed 03/03/2026
         "panelTitle.inactiveForeground": "#F0DFDF", // changed 04/03/2026
-        "peekViewEditor.background": "#1f1f1f",
-        "peekViewEditor.matchHighlightBackground": "#bb800966",
-        "peekViewResult.background": "#1f1f1f",
+        "peekView.border": "#DE5FE9", // changed 05/03/2026
+        "peekViewEditor.background": "#30173D", // changed 05/03/2026
+        "peekViewEditor.matchHighlightBackground": "#bb800966", // !
+        "peekViewEditorGutter.background": "#2612302f", // changed 05/03/2026
+        "peekViewResult.background": "#261230", // changed 05/03/2026
         "peekViewResult.matchHighlightBackground": "#bb800966",
+        "peekViewTitle.background": "#683285", // changed 05/03/2026
+        "peekViewTitleDescription.foreground": "#F0DFDF90", // changed 05/03/2026
+        "peekViewTitleLabel.foreground": "#F0DFDF", // changed 05/03/2026
+        "peekViewResult.selectionBackground": "#30173D", // changed 05/03/2026
         "pickerGroup.border": "#3c3c3c",
         "ports.iconRunningProcessForeground": "#369432",
-        "progressBar.background": "#0078d4",
-        "quickInput.background": "#222222",
-        "quickInput.foreground": "#cccccc",
-        "scrollbar.background": "#26123090", // changed 04/03/2026
+        "progressBar.background": "#D7FF64", // changed 05/03/2026
+        "quickInput.background": "#261230", // changed 05/03/2026
+        "quickInput.foreground": "#F0DFDF", // changed 05/03/2026
+        "scrollbar.background": "#000FFF00", // changed 05/03/2026
         "scrollbarSlider.activeBackground": "#DE5FE9", // changed 04/03/2026
         "scrollbarSlider.background": "#F1AFF640", // changed 04/03/2026
         "scrollbarSlider.hoverBackground": "#F1AFF680", // changed 04/03/2026
@@ -135,25 +156,26 @@
         "statusBarItem.remoteBackground": "#d7ff64", // changed 03/03/2026
         "statusBarItem.remoteForeground": "#261230", // changed 03/03/2026
         "tab.activeBackground": "#261230", // changed 03/03/2026
-        "tab.activeBorder": "#FFFFFF",
-        "tab.activeBorderTop": "#FFFFFF00",
-        "tab.activeForeground": "#ffffff",
-        "tab.border": "#FFFFFF00",
+        "tab.activeBorder": "#FFFFFF", // changed 03/03/2026
+        "tab.activeBorderTop": "#000FFF00", // changed 05/03/2026
+        "tab.activeForeground": "#ffffff", // changed 03/03/2026
+        "tab.border": "#000FFF00", // changed 05/03/2026
         "tab.hoverBackground": "#30173d", // changed 03/03/2026
+        "tab.hoverForeground": "#d7ff64", // changed 05/03/2026
         "tab.inactiveBackground": "#261230", // changed 03/03/2026
-        "tab.inactiveForeground": "#c8c8c8",
-        "tab.lastPinnedBorder": "#cccccc33",
-        "tab.selectedBackground": "#222222",
-        "tab.selectedBorderTop": "#6caddf",
-        "tab.selectedForeground": "#ffffffa0",
-        "tab.unfocusedActiveBorder": "#1f1f1f",
-        "tab.unfocusedActiveBorderTop": "#2b2b2b",
-        "tab.unfocusedHoverBackground": "#1f1f1f",
+        "tab.inactiveForeground": "#F0DFDF", // changed 05/03/2026
+        "tab.lastPinnedBorder": "#683285", // changed 05/03/2026
+        "tab.selectedBackground": "#261230", // changed 05/03/2026
+        "tab.selectedBorderTop": "#d7ff64", // changed 05/03/2026
+        "tab.selectedForeground": "#d7ff64", // changed 05/03/2026
+        "tab.unfocusedActiveBorder": "#FFFFFF", // changed 05/03/2026
+        "tab.unfocusedActiveBorderTop": "#000FFF00", // changed 05/03/2026
+        "tab.unfocusedHoverBackground": "#261230", // changed 05/03/2026
         "terminal.background": "#170B1E", // changed 04/03/2026
         "terminal.border": "#0B060F50", // changed 04/03/2026
         "terminal.foreground": "#F0DFDF", // changed 04/03/2026
         "terminal.inactiveSelectionBackground": "#3a3d41",
-        "terminal.tab.activeBorder": "#d7ff64", // changed 04/03/2026
+        "terminal.tab.activeBorder": "#FFFFFF", // changed 05/03/2026
         "terminalCursor.foreground": "#d7ff64", // changed 04/03/2026
         "textBlockQuote.background": "#2b2b2b",
         "textBlockQuote.border": "#616161",
