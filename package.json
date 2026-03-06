@@ -53,6 +53,11 @@
 				"label": "Astronomic Dark",
 				"uiTheme": "vs-dark",
 				"path": "themes/astronomic-default-dark-theme.json"
+			},
+			{
+				"label": "Astronomic Light",
+				"uiTheme": "vs",
+				"path": "themes/astronomic-default-light-theme.json"
 			}
 		]
 	}
