@@ -128,10 +128,12 @@
         "scrollbarSlider.activeBackground": "#DE5FE9", // changed 04/03/2026
         "scrollbarSlider.background": "#F1AFF640", // changed 04/03/2026
         "scrollbarSlider.hoverBackground": "#F1AFF680", // changed 04/03/2026
-        "settings.dropdownBackground": "#313131",
-        "settings.dropdownBorder": "#88888810", // changed 03/03/2026
-        "settings.headerForeground": "#ffffff",
-        "settings.modifiedItemIndicator": "#bb800966",
+        "settings.dropdownBackground": "#261230", // changed 05/03/2026
+        "settings.dropdownBorder": "#F0DFDF20", // changed 05/03/2026
+        "settings.headerForeground": "#ffffff", // changed 05/03/2026
+        "settings.modifiedItemIndicator": "#DE5FE990", // changed 05/03/2026
+        "settings.rowHoverBackground": "#452259", // changed 05/03/2026
+        "settings.settingsHeaderHoverForeground": "#D7FF64", // changed 05/03/2026
         "sideBar.background": "#261230", // changed 03/03/2026
         "sideBar.border": "#0B060F50", // changed 04/03/2026
         "sideBar.foreground": "#f0dfdf",
@@ -179,12 +181,12 @@
         "terminalCursor.foreground": "#d7ff64", // changed 04/03/2026
         "textBlockQuote.background": "#2b2b2b",
         "textBlockQuote.border": "#616161",
-        "textCodeBlock.background": "#2b2b2b",
-        "textLink.activeForeground": "#4daafc",
-        "textLink.foreground": "#4daafc",
-        "textPreformat.background": "#3c3c3c",
-        "textPreformat.foreground": "#d0d0d0",
-        "textSeparator.foreground": "#21262d",
+        "textCodeBlock.background": "#452259", // changed 05/03/2026
+        "textLink.activeForeground": "#F1AFF6", // changed 05/03/2026
+        "textLink.foreground": "#d7ff64", // changed 05/03/2026
+        "textPreformat.background": "#452259", // changed 05/03/2026
+        "textPreformat.foreground": "#d7ff64", // changed 05/03/2026
+        "textSeparator.foreground": "#2d2121",
         "titleBar.activeBackground": "#261230", // changed 03/03/2026
         "titleBar.activeForeground": "#F0DFDF", // changed 04/03/2026
         "titleBar.border": "#0B060F50", // changed 04/03/2026
