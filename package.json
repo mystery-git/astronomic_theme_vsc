@@ -1,11 +1,11 @@
 {
-	"name": "mg-astronomic-theme",
+	"name": "astronomic-theme",
 	"displayName": "Astronomic Theme",
-	"description": "Astronomic Theme for VS Code, Codium and others.",
+	"description": "Astronomic Theme for VS Code. Bold purple-green theme inspired by Astral.",
 	"version": "0.9.0",
-	"author": "Matt S",
-	"publisher": "Matt S",
-	"license": "MIT",
+	"author": "Mystery Git",
+	"publisher": "mystery-git",
+	"license": "SEE LICENSE IN LICENSE.txt",
 	"icon": "/assets/images/icon.png",
 	"galleryBanner": {
 		"color": "#261230",
