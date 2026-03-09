@@ -1,9 +1,9 @@
-<p style="text-align:center"><img src="assets/images/icon-small.png"></p>
+<p align="center"><img src="./assets/images/icon-small.png"></p>
 
 ![Hero image showcasing theme](/assets/images/hero.png)
 
-# <p style="text-align:center"> Astronomic! </p>
-###### <center> *"equip for +10 speed to your Python tooling"* </center>
+# <p align="center"> Astronomic! </p>
+###### <p align="center"> *"equip for +10 speed to your Python tooling"* <p align="center">
 
 **Astronomic** is a bold purple color theme designed and inspired by the official colors of [Astral](https://astral.sh/).
 
@@ -21,19 +21,19 @@ Use this theme if your whole set up is Astral (uv, ruff, ty) or you just really 
 
 #### Dark Mode
 
-![Default Dark Mode Theme](/assets/images/astronomic-default-dark-example.png)
+![Default Dark Mode Theme](./assets/images/astronomic-default-dark-example.png)
 
 ##### Palette
 
-![Default Dark Mode Theme Color Palette](/assets/images/astronomic-default-dark-palette.png)
+![Default Dark Mode Theme Color Palette](./assets/images/astronomic-default-dark-palette.png)
 
 #### Light Mode
 
-![Default Light Mode Theme](/assets/images/astronomic-default-light-example.png)
+![Default Light Mode Theme](./assets/images/astronomic-default-light-example.png)
 
 ##### Palette
 
-![Default Light Mode Theme Color Palette](/assets/images/astronomic-default-light-palette.png)
+![Default Light Mode Theme Color Palette](./assets/images/astronomic-default-light-palette.png)
 
 ---
 
@@ -45,7 +45,7 @@ Install the theme directly from inside your editor (VS Code, VS Codium, Cursor, 
 #### Method 2
 Install it from the Open VSX Registry by:
 
-- Downloading the extension from [open-vsx.org/extension/mysterygit/astronomic-theme](https://open-vsx.org/extension/mystery-git/astronomic-theme) (.vsix file)
+- Downloading the extension from [open-vsx.org/extension/mystery-git/astronomic-theme](https://open-vsx.org/extension/mystery-git/astronomic-theme) (.vsix file)
 - Following VSIX installation guidance for your editor ("Install extension from VSIX")
 
 ---
