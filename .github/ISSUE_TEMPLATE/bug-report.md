@@ -23,9 +23,9 @@ assignees: mystery-git
 
 **Please complete the following information to help speed up testing and fixing the issue:**
  
-- Platform: *[VS Code, VS Codium, Cursor, etc]*
-- Theme extension version: *[In format X.X.X. e.g 1.2.10. Please find the extension version inside your editor]*
-- Extension downloaded from: *[VS Code Marketplace, Open VSX Marketplace, Open VSX website (.vsix file), etc]*
+- **Platform:** *[VS Code, VS Codium, Cursor, etc]*
+- **Theme extension version:** *[In format X.X.X. e.g 1.2.10. Please find the extension version inside your editor]*
+- **Extension downloaded from:** *[VS Code Marketplace, Open VSX Marketplace, Open VSX website (.vsix file), etc]*
 
 ---
 
