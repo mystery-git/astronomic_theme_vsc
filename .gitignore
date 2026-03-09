@@ -2,3 +2,4 @@
 /samples/
 !.gitignore
 !.github
+!.vscodeignore
